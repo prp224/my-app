@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.decfd795.css",
-    "main.js": "/my-app/static/js/main.f84b2bfc.js",
+    "main.css": "/my-app/static/css/main.c60b48be.css",
+    "main.js": "/my-app/static/js/main.9fe7cc1a.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/Headshot.png": "/my-app/static/media/Headshot.b26e3d24419f2edbf518.png",
     "static/media/prabin_soccer3.jpg": "/my-app/static/media/prabin_soccer3.acc2a89a2c71138bf3d5.jpg",
@@ -16,12 +16,12 @@
     "static/media/naruto.jpg": "/my-app/static/media/naruto.e73d7a0e8816ce9b3b86.jpg",
     "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/my-app/index.html",
-    "main.decfd795.css.map": "/my-app/static/css/main.decfd795.css.map",
-    "main.f84b2bfc.js.map": "/my-app/static/js/main.f84b2bfc.js.map",
+    "main.c60b48be.css.map": "/my-app/static/css/main.c60b48be.css.map",
+    "main.9fe7cc1a.js.map": "/my-app/static/js/main.9fe7cc1a.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.decfd795.css",
-    "static/js/main.f84b2bfc.js"
+    "static/css/main.c60b48be.css",
+    "static/js/main.9fe7cc1a.js"
   ]
 }
