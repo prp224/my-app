@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.0da26838.css",
-    "main.js": "/my-app/static/js/main.2d612253.js",
+    "main.css": "/my-app/static/css/main.366072ec.css",
+    "main.js": "/my-app/static/js/main.7a66f000.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/Headshot.png": "/my-app/static/media/Headshot.b26e3d24419f2edbf518.png",
+    "static/media/logo.png": "/my-app/static/media/logo.0ba87a7abc386105b824.png",
     "static/media/prabin_soccer3.jpg": "/my-app/static/media/prabin_soccer3.acc2a89a2c71138bf3d5.jpg",
     "static/media/prabin_soccer2.jpg": "/my-app/static/media/prabin_soccer2.4321c3de327dab92e091.jpg",
+    "static/media/sunset.jpeg": "/my-app/static/media/sunset.a8c0e1f6944287f61bcf.jpeg",
     "static/media/lehigh.JPG": "/my-app/static/media/lehigh.142ddffac573aab9f240.JPG",
     "static/media/prabin_soccer1.jpg": "/my-app/static/media/prabin_soccer1.61a9d1d9931e7cf6ae8e.jpg",
     "static/media/tihar.jpeg": "/my-app/static/media/tihar.bc43dce5b4bbfdba245e.jpeg",
     "static/media/soccer1.jpeg": "/my-app/static/media/soccer1.b76de15d81ddba495dfd.jpeg",
+    "static/media/coverPhoto.jpeg": "/my-app/static/media/coverPhoto.cf5d79660d1a8831dda5.jpeg",
     "static/media/fam1.jpeg": "/my-app/static/media/fam1.76ef70ccc0db7285c8a5.jpeg",
     "static/media/naruto.jpg": "/my-app/static/media/naruto.e73d7a0e8816ce9b3b86.jpg",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/my-app/index.html",
-    "main.0da26838.css.map": "/my-app/static/css/main.0da26838.css.map",
-    "main.2d612253.js.map": "/my-app/static/js/main.2d612253.js.map",
+    "main.366072ec.css.map": "/my-app/static/css/main.366072ec.css.map",
+    "main.7a66f000.js.map": "/my-app/static/js/main.7a66f000.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0da26838.css",
-    "static/js/main.2d612253.js"
+    "static/css/main.366072ec.css",
+    "static/js/main.7a66f000.js"
   ]
 }
