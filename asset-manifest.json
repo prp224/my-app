@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.cdae6bf9.css",
-    "main.js": "/my-app/static/js/main.8396794c.js",
+    "main.js": "/my-app/static/js/main.c34c0d48.js",
     "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
     "static/media/prabin_soccer3.jpg": "/my-app/static/media/prabin_soccer3.acc2a89a2c71138bf3d5.jpg",
     "static/media/prabin_soccer2.jpg": "/my-app/static/media/prabin_soccer2.4321c3de327dab92e091.jpg",
@@ -17,11 +17,11 @@
     "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/my-app/index.html",
     "main.cdae6bf9.css.map": "/my-app/static/css/main.cdae6bf9.css.map",
-    "main.8396794c.js.map": "/my-app/static/js/main.8396794c.js.map",
+    "main.c34c0d48.js.map": "/my-app/static/js/main.c34c0d48.js.map",
     "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdae6bf9.css",
-    "static/js/main.8396794c.js"
+    "static/js/main.c34c0d48.js"
   ]
 }
